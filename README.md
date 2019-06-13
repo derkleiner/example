@@ -1,4 +1,4 @@
-# example
+# example readme file for Git
 This is an example repo for learning and training
 
 
